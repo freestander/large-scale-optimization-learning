@@ -13,20 +13,17 @@ A self-learning journey for large-scale optimization modeling.
 - [ ] [The CP-SAT Primer - Using and Understanding Google OR-Tools' CP-SAT Solver](https://d-krupke.github.io/cpsat-primer/)
 
 ---
-## Column Generation
+## Decomposition Algorithms
+- [ ] [Optimizing with Column Generation: Advanced Branch-Cut-and-Price Algorithms](https://optimization-online.org/wp-content/uploads/2024/08/Book_on_Column_Generation___Part_I.pdf)
+- [ ] [Hands-on Large Scale Optimization in Python](https://kunlei.github.io/large-scale-opt-python/)
 
 ---
-## Benders Decomposition
-
----
-## Lagrangian Decomposition
-
----
-## Metaheuristics
-### Large Neighborhood Search
+## Large Neighborhood Search
+- [ ] [Large Neighborhood Search](https://backend.orbit.dtu.dk/ws/files/5293785/Pisinger.pdf)
 
 ---
 ## Blogs
 - [ ] [Yet Another Math Programming Consultant](https://yetanothermathprogrammingconsultant.blogspot.com/)
 - [ ] [Dominik Michael Krupke](https://krupke.cc/)
+- [ ] [Kunlei Lian](https://kunlei.github.io/)
 - [ ] [List of Optimization Packages in Python](https://feloopy.github.io/blog/list-of-optimization-packages)
