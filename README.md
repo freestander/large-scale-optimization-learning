@@ -18,8 +18,13 @@ A self-learning journey for large-scale optimization modeling.
 - [ ] [Hands-on Large Scale Optimization in Python](https://kunlei.github.io/large-scale-opt-python/)
 
 ---
-## Large Neighborhood Search
+## Metaheuristics
 - [ ] [Large Neighborhood Search](https://backend.orbit.dtu.dk/ws/files/5293785/Pisinger.pdf)
+
+---
+## Guides
+- [ ] [Google OR-Tools](https://developers.google.com/optimization/introduction)
+- [ ] [Timefold Solver](https://docs.timefold.ai/timefold-solver/latest/introduction)
 
 ---
 ## Blogs
